@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
  
   
     <center>
-        <h2>Hello World!-This is Demo</h2>
+        <h2>Hello World!_AWS</h2>
         <h3>
             <a href="hello?name=DM">Click Here</a>
         </h3>
