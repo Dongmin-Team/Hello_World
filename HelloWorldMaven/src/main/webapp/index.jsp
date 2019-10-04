@@ -11,6 +11,7 @@ pageEncoding="ISO-8859-1"%>
   
     <center>
         <h2>Hello World!_AWS-test!</h2>
+        <h2>seungho!!!!</h2>
         <h3>
             <a href="hello?name=DM">Click Here</a>
         </h3>
